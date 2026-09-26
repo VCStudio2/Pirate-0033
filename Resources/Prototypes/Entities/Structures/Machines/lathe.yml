@@ -397,6 +397,7 @@
     - ModesuitPartStatic
     - PowerCages
     - BorgModulesGoob
+    - SecBorgParts # Goob
     - BasicCybernetics
     - MedicalCybernetics
     - AdvancedCybernetics
@@ -510,6 +511,8 @@
     # Pirate Packs
     - SecurityEquipmentStaticPirate # Pirate: K9 durathread vest.
     - SecurityAmmoStaticPirate
+    - SecurityPeacekeeperAmmoStaticPirate
+    - SecurityPeacekeeperWeaponsStaticPirate
     - PirateStraightjacketLatheRecipePackStatic # Pirate - tweak recipes | Add straint-jacket to med and sec fabs.
     - ModesuitModuleSecStatic # Pirate: Wega modular suit port.
     dynamicPacks:
@@ -580,6 +583,7 @@
       - SecurityAmmoStaticGoob
       # Pirate Packs
       - SecurityAmmoStaticPirate
+      - M16AmmoStaticPirate # Pirate: M16 magazine recipes
       dynamicPacks:
       # Pirate Packs
       - SecurityAmmoPirate
